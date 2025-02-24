@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+install/
+log/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# ROS
+*.pyc
+__pycache__
